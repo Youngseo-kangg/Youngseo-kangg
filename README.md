@@ -19,6 +19,7 @@
 
 ### Interested
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
 <!--
 **Youngseo-kangg/Youngseo-kangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
