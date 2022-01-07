@@ -1,9 +1,9 @@
 # Welcome!
 ### 안녕하세요. 꾸준히 발전하는 프론트엔드 개발자 강영서 입니다.
 
-저는 주위의 추천으로 HTML과 CSS에 대해 접한 후 제가 작성한 대로 무언가가 생성되고, 빠르게 적용되는 모습에 흥미가 생겨 국비 지원 컴퓨터 학원에서 프로그래밍 과정을 수료했습니다. 학원 수료 후 조금 더 체계적인 공부가 필요하다 생각한 저는 코드스테이츠에서 소프트웨어 엔지니어링 코스를 듣게 되었고, 파이널 프로젝트에서 줄임말 검색 사이트를 만들었습니다. 검색 사이트에서 이용자가 쉽게 검색할 수 있도록 검색어 순위를 시각화하여 제공하였고, 이용자가 뜻을 직접 작성할 수 있도록 하여 재미 요소를 더했습니다. 코스 수료 이후에는 셰프 예약 사이트 프로젝트를 진행하여 카드결제, 예약, admin 페이지 등을 구현해 보았습니다.
+영미 소설에 흥미를 느껴 영문학을 공부했으나, 제가 작성한 대로 생성되고 적용되는 프론트엔드 분야에 재미를 느껴 개발 공부를 시작하게 되었습니다. 짬짬이 인터넷 강의를 보는 것에서부터 시작해 국비 지원 컴퓨터 학원에서 기초를 쌓고, 부트캠프에서 공부를 이어 나갔습니다. 부트캠프에서의 페어 코딩과 팀 프로젝트 경험을 통해 새로운 사람과 소통하고 함께 공부하면서 성장할 수 있었습니다. 부트캠프 수료 후에는 셰프 예약 플랫폼 프로젝트를 통해 공부를 이어 나갔으며, 최근에는 typescript를 공부하고 있습니다. 팀원들과 소통을 통해 배우며 어제보다 나은 개발자가 되겠습니다.
 
-저는 프론트엔드 개발자로서 어떤 기능과 지식이 필요한지 파악하고, 조금씩이라도 공부하고 기록해 어제보다 발전한 개발자가 되고싶습니다. 이를 위해 저는 제가 구현해 보고 싶은 기능과 관련된 지식을 공부하고 그 기능을 사이드 프로젝트에서 구현하여 github에 꾸준히 업로드 하고 있습니다. 또한 사이드 프로젝트를 진행하며 느낀 점, 기억할 점, 에러 해결 기록 등을 github과 노션에 기록하여 지식을 온전히 제것으로 만들려고 노력하고 있습니다. 최근에는 더 나은 코드작성을 위해 typescript에 대해 공부하고 있습니다. 또한 저는 평창 동계 올림픽 당시 관광회사 TF팀, 외국계 엔지니어링 회사 등에서 아르바이트 경험을 통해 영어로 의사소통을 할 수 있게 되었고, 개발 관련 영어 자료를 이해하는 것에도 자신있습니다. 지금까지 멈추지 않고 꾸준히 공부 한 것 처럼 앞으로도 꾸준히 노력하고 발전하는 개발자가 되겠습니다.
+
 ## STACK
 ### Strong
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -22,7 +22,7 @@
 
 ### Interested
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 
 <!--
 **Youngseo-kangg/Youngseo-kangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
